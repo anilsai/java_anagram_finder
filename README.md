@@ -1,6 +1,6 @@
 # java_anagram_finder
 
-## Overview and Requirements: ## 
+## Overview and Specs: ## 
 An anagram is a word, phrase, or name formed by rearranging the letters of another, such as cinema , formed from iceman. This program is used to parse through a text file and find anagrams for the specific word given by the user.
 
 1. In each case, the program should accept a single parameter which will be the name of the dictionary file. The dictionary file consists of a list of words. Each word is on separate line.
@@ -24,6 +24,4 @@ An anagram is a word, phrase, or name formed by rearranging the letters of anoth
 
 5. If you are adding new text (dictionary) files to test, please add them in the same directory as your ```anagrams.java``` file.
 
-### Time Taken to Complete Task: ###
 
-The total time to complete project was about 5 hours. Spent about 2 hours for two days. Took a bit of time to optimize the code to ensure efficiency and also to go through a bit of documentation. 
