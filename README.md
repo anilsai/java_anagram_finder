@@ -4,9 +4,9 @@
 An anagram is a word, phrase, or name formed by rearranging the letters of another, such as cinema , formed from iceman. This program is used to parse through a text file and find anagrams for the specific word given by the user.
 
 1. In each case, the program should accept a single parameter which will be the name of the dictionary file. The dictionary file consists of a list of words. Each word is on separate line.
-2. The program should provide a command line prompt where a user can input a word of their choice. On hitting enter the program should find all anagrams, if any exist, of the word and print them out on the next line as a comma separated list. If no anagrams are found it should print out �No anagrams found for <word>�.
+2. The program should provide a command line prompt where a user can input a word of their choice. On hitting enter the program should find all anagrams, if any exist, of the word and print them out on the next line as a comma separated list. If no anagrams are found it should print out "No anagrams found for <word>".
 3. Include in the output timings for loading the dictionary and timings for each anagram set request.
-4. The program should continue to prompt for anagrams until �exit� is typed at the prompt.
+4. The program should continue to prompt for anagrams until "exit" is typed at the prompt.
 
 ## Dependencies for Project: ##
 
